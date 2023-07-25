@@ -28,7 +28,7 @@ Follow the steps below to set up the BookAPI project on your local machine:
    ```
 
 2. **Database Configuration:**
-   - Create a PostgreSQL database named `bookdb`.
+   - Create a PostgreSQL database named `books`.
    - Update the database connection details in the `application.properties` file located at `src/main/resources`.
 
 3. **Build the Project:**
